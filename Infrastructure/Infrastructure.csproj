@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DemoRestApi\Presentation.csproj" />
+    <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 
 </Project>
